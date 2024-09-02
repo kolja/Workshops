@@ -12,7 +12,6 @@ tags:
 	- [ ] USB Kabel für den Anschuss des Microcontrollers an den PC (Micro USB oder USB-C)
 	- [ ] 9V Blockbatterie (am besten als Akku: dann wiederaufladbar)
     - [ ] Anschlusskabel für 9V Blockbatterie
-	- [x] Buck Converter (LM2596)
 	- [x] Breadboards
 	- [x] Jumper Kabel (560 Stück)
     - [x] Schaltkabel (Einadrig, jeweils 10m: rot, schwarz, gelb)
@@ -20,6 +19,8 @@ tags:
     - [x] Kugellager MR115ZZ (50x)
     - [x] Fahrradspeichen (220mm, 20x)
 	- [ ] Isolier Klebeband
+    - [ ] Musterbeutelklammern
+    - [ ] Kabelbinder
     - [ ] Wellpappe
     - [ ] Karton
 
@@ -30,6 +31,7 @@ tags:
     - [x] Servomotor (SG90, 10x)
     - [x] DC Motor mit Getriebe (N20)
     - [x] Reed Schalter (10x)
+	- [x] Buck Converter (LM2596)
     - [ ] Ein/Aus Schalter
     - [ ] LED (verschiedene Farben)
     - [ ] Widerstand (200 - 300 Ohm)
