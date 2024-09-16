@@ -18,9 +18,9 @@ tags:
     - [ ] Schrumpfschlauch
     - [x] Kugellager MR115ZZ (50x)
     - [x] Fahrradspeichen (220mm, 20x)
-	- [ ] Isolier Klebeband
+	- [x] Isolier Klebeband
     - [ ] Musterbeutelklammern
-    - [ ] Kabelbinder
+    - [x] Kabelbinder
     - [ ] Wellpappe
     - [ ] Karton
 
@@ -44,13 +44,13 @@ tags:
 
 # Werkzeug
 
-	- [ ] Heissklebepistole (inkl. Klebesticks)
+	- [x] Heissklebepistole (inkl. Klebesticks)
 	- [ ] Lötkolben + Lötzinn
     - [x] Schneidematte (8 Stück)
-	- [ ] Cuttermesser
+	- [x] Cuttermesser
     - [ ] Falzbein
-    - [ ] Ahle
-    - [ ] Lineal (aus Metall)
+    - [x] Ahle (2 Stück)
+    - [x] Lineal (aus Metall 5 Stück)
     - [ ] Schere
     - [x] Abisolierzange
     - [x] Seitenschneider (5 Stück)
