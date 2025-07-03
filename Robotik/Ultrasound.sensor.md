@@ -1,5 +1,5 @@
 ---
-tags: [Ultrasound, sensor]
+tags: [ultrasound, sensor]
 ---
 
 # The Ultrasound sensor and the Speed of Sound
